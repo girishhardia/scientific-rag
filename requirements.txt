@@ -1,0 +1,7 @@
+arxiv
+pymupdf
+sentence-transformers
+chromadb
+openai
+gradio
+python-dotenv
