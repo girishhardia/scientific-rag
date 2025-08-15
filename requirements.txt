@@ -2,6 +2,7 @@ arxiv
 pymupdf
 sentence-transformers
 chromadb
-openai
+google-generativeai
 gradio
 python-dotenv
+langchain
